@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Tech/Research"
-    url: /publications/
-
-  - title: "Blog Posts"
+  - title: "Blog/News"
     url: /year-archive/
     
+  - title: "Tech/Research"
+    url: /publications/
+    
   - title: "Music"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Photography/Cooking/RandomArts"
+  - title: "Photography/Cooking/RandomStuff"
     url: /teaching/
 
